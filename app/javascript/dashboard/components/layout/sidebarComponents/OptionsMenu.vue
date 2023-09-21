@@ -37,7 +37,7 @@
             size="small"
             icon="keyboard"
             @click="handleKeyboardHelpClick"
-          >app/javascript/dashboard/components/layout/sidebarComponents/OptionsMenu.vue
+          >
             {{ $t('SIDEBAR_ITEMS.KEYBOARD_SHORTCUTS') }}
           </woot-button>
         </woot-dropdown-item>

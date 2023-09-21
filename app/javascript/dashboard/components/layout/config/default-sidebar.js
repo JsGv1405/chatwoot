@@ -13,7 +13,7 @@ export const getSidebarItems = accountId => ({
     contacts(accountId),
     reports(accountId),
     campaigns(accountId),
-    settings(accountId),
+    // settings(accountId),
     notifications(accountId),
   ],
 });
