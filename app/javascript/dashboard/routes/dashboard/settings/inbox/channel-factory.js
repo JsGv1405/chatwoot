@@ -10,14 +10,14 @@ import Telegram from './channels/Telegram';
 
 const channelViewList = {
   facebook: Facebook,
-  website: Website,
-  twitter: Twitter,
-  api: Api,
-  email: Email,
-  sms: Sms,
+  // website: Website,
+  // twitter: Twitter,
+  // api: Api,
+  // email: Email,
+  // sms: Sms,
   whatsapp: Whatsapp,
-  line: Line,
-  telegram: Telegram,
+  // line: Line,
+  // telegram: Telegram,
 };
 
 export default {

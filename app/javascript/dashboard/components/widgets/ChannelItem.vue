@@ -40,13 +40,13 @@ export default {
       }
 
       return [
-        // 'website',
-        // 'twilio',
-        // 'api',
+        'website',
+        'twilio',
+        'api',
         'whatsapp',
-        // 'sms',
-        // 'telegram',
-        // 'line',
+        'sms',
+        'telegram',
+        'line',
       ].includes(key);
     },
   },
